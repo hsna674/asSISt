@@ -51,3 +51,9 @@
 .recalculate-button {
     margin-top: 10px;
 }
+
+.grade-element {
+    width: 225px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
